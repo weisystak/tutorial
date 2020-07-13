@@ -1,0 +1,5 @@
+new_local_repository(
+    name = "clif",
+    build_file = "clif.BUILD",
+    path = "/usr/local",
+)
